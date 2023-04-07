@@ -1,0 +1,9 @@
+{
+    "first_name" : "Ruth",
+    "sur_name" : "El",
+    "epost" : "ruthel@email.com",
+    "mobile" : "08123456789",
+    "username" : "ruthell",
+    "password" : "testcypress", 
+    "confirm_password" : "testcypress"
+}

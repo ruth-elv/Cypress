@@ -1,0 +1,5 @@
+{
+    "valid_user" : "ruthel",
+    "invalid_user" : "ruth_el", 
+    "valid_password" : "testcypress"
+}
